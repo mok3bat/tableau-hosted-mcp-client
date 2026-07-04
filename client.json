@@ -1,8 +1,9 @@
 {
   "client_id": "https://mok3bat.github.io/tableau-hosted-mcp-client/client.json",
   "client_name": "Mo Tableau MCP Test Client",
+  "client_uri": "https://github.com/mok3bat/tableau-hosted-mcp-client",
   "redirect_uris": [
-    "http://127.0.0.1:8765/callback"
+    "http://localhost:*/callback"
   ],
   "grant_types": [
     "authorization_code",
