@@ -92,9 +92,7 @@ client = Client(
 
 A higher-level Python SDK that simplifies authentication, token persistence, and interaction with Tableau Hosted MCP.
 
-```
-https://github.com/mok3bat/tableau-hosted-mcp
-```
+[Tableau Hosted MCP SDK](https://github.com/mok3bat/tableau-hosted-mcp)
 
 ---
 
